@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RR_PawnBadge", "RR_PawnBadg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RR_PawnBadge-RW1.1", "RR_PawnBadge-RW1.1\RR_PawnBadge-RW1.1.csproj", "{BD131995-8E3A-4388-80BE-EEA6A92D196E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KFColonistBar_Patch", "KFColonistBar_Patch\KFColonistBar_Patch.csproj", "{E8A556AB-A8C2-4EAE-BEEC-5397C838F65B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
